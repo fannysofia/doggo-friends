@@ -1,2 +1,2 @@
 # doggo-friends
-Website template for finding friends for your doggo 🐶
+HTML template for finding friends for your doggo 🐶
